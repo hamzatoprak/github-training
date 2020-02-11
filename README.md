@@ -1,6 +1,14 @@
 # Bugün öğrenilenler
 Git Hub hakkında 
-kavramlar 
+kavramlar
+pull
+commit 
+stager
+
+
+[kodstara gidiniz](http://www.kodstar.com/)<br>
+[kodstar.txt](./kodstar.txt)
+
 
 # Gelecek hafta öğrenilecekler
 Java Cl
